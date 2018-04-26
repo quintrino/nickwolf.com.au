@@ -6,17 +6,13 @@ icon: fa-book
 order: 3
 ---
 
-I love books! Here are some I'm reading now:
+I'm a big fan of books that help you grow. 
 
-1. Robert Burton: *The Anatomy of Melancholy*
-2. Robert Musil: *The Man Without Qualities*
-3. Kazuo Ishiguro: *The Unconsoled*
-4. Malcolm Lowry: *Under the Volcano*
-5. Virginia Woolf: *The Waves*
-6. James Joyce: *Finnegans Wake*
-7. Thomas Wolfe: *Look Homeward, Angel*
-8. William Thackeray: *Pendennis*
-9. Karl Marx: *Capital*
-10. James Woodforde: *The Diary of A Country Parson*
+Here are the books I most often recommend to others.
 
-source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
+
+[Essentialism](https://www.amazon.com.au/Essentialism-Disciplined-Pursuit-Greg-McKeown-ebook/dp/B00HELB6XI/) by Greg McKeown
+[The Charisma Myth](https://www.amazon.com.au/Charisma-Myth-Master-Personal-Magnetism-ebook/dp/B009AT821G) by Olivia Cabane Fox 
+[Getting Things Done](https://www.amazon.com.au/Getting-Things-Done-David-Allen-ebook/dp/B00SADYUK0/) by David Allen
+Sapiens](https://www.amazon.com.au/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095) by Yuval Noah Harari
+[The Quantum Thief](https://www.amazon.com.au/Quantum-Thief-Jean-Flambeur-ebook/dp/B0043M66Y0) by Hannu Rajaniemi
