@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Feedback
-icon: fa-home
+icon: fa-bullhorn
 order: 4
 ---
 

@@ -44,15 +44,16 @@ url: "" # the base hostname & protocol for your site
 
 # Social settings
 facebook_url: https://fb.me/quintrino
-github_url: quintrino
+github_url: https://github.com/quintrino
 googleplus_url: https://google.com/+quintrino
-instagram_url:
+instagram_url: 
 linkedin_url: https://linkedin.com/in/quintrino
 github_url:
 stackoverflow_url:
 pinterest_url:
-slack_url:
+rss_url: feed.xml
 twitter_url: https://twitter.com/quintrino
+
 
 # Google Analytics Tracking ID goes here:
 google_analytics:
@@ -61,3 +62,7 @@ google_analytics:
 remote_theme: chrisbobbe/jekyll-theme-prologue
 # theme: jekyll-theme-prologue
 collections: [sections]
+
+plugins:
+  - jekyll-redirect-from
+  - jekyll-feed
