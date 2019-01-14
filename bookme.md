@@ -1,6 +1,8 @@
 ---
 layout: "page"
 hide: true
+redirect_from: 
+    - book-me
 ---
 
 <!-- Calendly inline widget begin -->
