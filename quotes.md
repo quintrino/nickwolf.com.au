@@ -391,3 +391,6 @@ I've found it's easier that way"<br>
 
 "Nick shows up here with this superstar system"<br>
 [Michael Morris](https://twitter.com/mtcmorris)
+
+"You are delightful, thank you for being you."<br>
+[Vanessa Nimmo](https://twitter.com/nessnimmo)
