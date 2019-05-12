@@ -391,7 +391,3 @@ I've found it's easier that way"<br>
 
 "Nick shows up here with this superstar system"<br>
 [Michael Morris](https://twitter.com/mtcmorris)
-
-"Has anyone ever told you that you sound like you've just stepped out of
-Musical Theatre?"<br>
-[Mark Glossop](https://twitter.com/Cueball_au)
