@@ -394,3 +394,6 @@ I've found it's easier that way"<br>
 
 "You are delightful, thank you for being you."<br>
 [Vanessa Nimmo](https://twitter.com/nessnimmo)
+
+"I should know by now you're not _"most people"_<br>
+[Ryan Bigg](https://twitter.com/ryanbigg)
