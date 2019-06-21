@@ -396,3 +396,6 @@ I've found it's easier that way"<br>
 
 "I should know by now you're not _"most people"_<br>
 [Ryan Bigg](https://twitter.com/ryanbigg)
+
+"I love your analytic mind, you're like a bloody Quant"<br>
+[Ryan Bigg](https://twitter.com/ryanbigg)
