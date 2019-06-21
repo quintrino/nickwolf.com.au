@@ -79,7 +79,7 @@ professional developer"<br>
 comfortably and easily"<br>
 [Ange Wu](https://twitter.com/angeftw)
 
-"You've made me a very capable arguer, because  normally I have to
+"You've made me a very capable arguer, because normally I have to
 deal with you and quite often the standard of argument outside is lower."<br>
 [Rian Chubb](https://www.facebook.com/eggshellskull)
 
@@ -156,7 +156,6 @@ but even I was surprised at how strong that correlation was."<br>
 "You just kind of do things without letting random crap get in the way"<br>
 [Sophia Cyna](https://www.facebook.com/sophiacyna)
 
-
 "You're obviously very intellectual, but one of your defining
 characteristics is your kindness and your emotional regulation."<br>
 [Kate Kenfield](https://twitter.com/katekenfield)
@@ -213,7 +212,7 @@ it's my #1 NickNeed™"<br>
 [Chris Leong](https://www.facebook.com/casebash)
 
 "You're exactly the kind of value-adding person we need
-to make this party fun ^_^"<br>
+to make this party fun ^\_^"<br>
 [Xavier O'Rourke](https://www.facebook.com/xavier.orourke92)
 
 "I think you are a born mentor"<br>
@@ -228,7 +227,7 @@ to make this party fun ^_^"<br>
 "HOW DO YOU DO SO MANY THINGS?"<br>
 [Dana Sherson](https://www.facebook.com/robotdana)
 
-"You have a *lot* of attractive friends"<br>
+"You have a _lot_ of attractive friends"<br>
 [Kate Trewin](http://facebook.com/K8PL8)
 
 "You know everyone!"<br>
