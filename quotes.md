@@ -399,3 +399,6 @@ I've found it's easier that way"<br>
 
 "I love your analytic mind, you're like a bloody Quant"<br>
 [Ryan Bigg](https://twitter.com/ryanbigg)
+
+"The thing I've come to learn is that you are most assuredly _not_ a simple person"<br>
+[Dan Cheail](https://twitter.com/_dnch/)
