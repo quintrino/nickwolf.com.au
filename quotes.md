@@ -402,3 +402,6 @@ I've found it's easier that way"<br>
 
 "The thing I've come to learn is that you are most assuredly _not_ a simple person"<br>
 [Dan Cheail](https://twitter.com/_dnch/)
+
+"Like peeling back layers of an onion, you contain multitudes, and all of it wonderful"<br>
+[Dan Cheail](https://twitter.com/_dnch/)
