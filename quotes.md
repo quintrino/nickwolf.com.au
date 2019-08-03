@@ -411,3 +411,6 @@ I've found it's easier that way"<br>
 
 "You're the most Ravenclaw person I know"<br>
 [Nerida Leigh](https://www.facebook.com/NeridaLeigh)
+
+"I consider you a higher quality of Intellectual"<br>
+[Richard Neilsen](https://www.facebook.com/rneilsen)
