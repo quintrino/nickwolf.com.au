@@ -417,3 +417,6 @@ I've found it's easier that way"<br>
 
 "I consider you a higher quality of Intellectual"<br>
 [Richard Neilsen](https://www.facebook.com/rneilsen)
+
+"I’m surprised, because you’ve met literally everyone"<br>
+[Dana Sherson](https://www.facebook.com/robotdana)
