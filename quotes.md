@@ -420,3 +420,6 @@ I've found it's easier that way"<br>
 
 "I’m surprised, because you’ve met literally everyone"<br>
 [Dana Sherson](https://www.facebook.com/robotdana)
+
+"You can choose whatever you want, and you obviously do"<br>
+[Richard Neilsen](https://www.facebook.com/rneilsen)
