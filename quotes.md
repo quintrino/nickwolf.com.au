@@ -423,3 +423,6 @@ I've found it's easier that way"<br>
 
 "You can choose whatever you want, and you obviously do"<br>
 [Richard Neilsen](https://www.facebook.com/rneilsen)
+
+"I learn a lot when I talk to you"<br>
+[Nick Threapleton](https://threapleton.com/)
