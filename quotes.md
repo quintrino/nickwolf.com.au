@@ -426,3 +426,39 @@ I've found it's easier that way"<br>
 
 "I learn a lot when I talk to you"<br>
 [Nick Threapleton](https://threapleton.com/)
+
+"Thanks for being you Nick. I really appreciate you"<br>
+[Erin Belot](https://twitter.com/ErinBelot)
+
+"You're a deeply fascinating man"<br>
+[Jordan Gabriels](https://www.linkedin.com/in/jordan-gabriels/)
+
+"You are the most personable person I know"<br>
+[Richard Neilsen](https://www.facebook.com/rneilsen)
+
+"You must know everyone in Melbourne"<br>
+[Maria Yebra](https://www.facebook.com/maria.yebra)
+
+"If anyone has a chance of doing it, it'd be you."<br>
+[Matt Stevenson](https://www.facebook.com/mattoc)
+
+"I wish I could hire you to just come to every party I go to"<br>
+[Katrina Frances](https://www.facebook.com/caterwaul)
+
+"Genius and Generous"<br>
+[Jordan Gabriels](https://www.linkedin.com/in/jordan-gabriels/)
+
+"Until I met Nick I was the Nick of my social circle"<br>
+[Nerida Leigh](https://www.facebook.com/NeridaLeigh)
+
+"I don't know anyone else like you"<br>
+[Karina Louise](https://www.facebook.com/nakarielle)
+
+"Your calendar must be mental 🤯 🤯 🤯"<br>
+[Jay Pitman](https://www.facebook.com/jake.pitman.14)
+
+"Boom! you're awesome 👊"<br>
+[Damian Fasciani](https://www.linkedin.com/in/damian-fasciani-87869113/)
+
+"This is the most Nick thing I've ever heard and I'm loving it"<br>
+[Ryan Bigg](https://twitter.com/ryanbigg)
