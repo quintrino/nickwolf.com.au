@@ -462,3 +462,6 @@ I've found it's easier that way"<br>
 
 "This is the most Nick thing I've ever heard and I'm loving it"<br>
 [Ryan Bigg](https://twitter.com/ryanbigg)
+
+"You are one of the most social and approaching people ever"<br>
+[Beau Oakley](https://www.facebook.com/janglz)
