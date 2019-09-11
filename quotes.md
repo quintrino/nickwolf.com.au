@@ -465,3 +465,6 @@ I've found it's easier that way"<br>
 
 "You are one of the most social and approaching people ever"<br>
 [Beau Oakley](https://www.facebook.com/janglz)
+
+"Thank you for having wonderful ways to make life better"<br>
+[Kate Trewin](http://facebook.com/K8PL8)
