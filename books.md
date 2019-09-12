@@ -6,10 +6,9 @@ icon: fa-book
 order: 3
 ---
 
-I'm a big fan of books that help you grow. 
+I'm a big fan of books that help you grow.
 
 Here are the books I most often recommend to others.
-
 
 [Essentialism](https://www.amazon.com.au/Essentialism-Disciplined-Pursuit-Greg-McKeown-ebook/dp/B00HELB6XI/) by Greg McKeown<br>
 [The Charisma Myth](https://www.amazon.com.au/Charisma-Myth-Master-Personal-Magnetism-ebook/dp/B009AT821G) by Olivia Cabane Fox <br>
