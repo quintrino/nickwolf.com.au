@@ -2,6 +2,7 @@
 title: Quotes
 layout: "page"
 hide: true
+permalink: quotes
 ---
 
 Welcome to my quotes page.
