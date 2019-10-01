@@ -398,11 +398,11 @@ I've found it's easier that way"<br>
 "I should know by now you're not _"most people"_<br>
 [Ryan Bigg](https://twitter.com/ryanbigg)
 
-"I love your analytic mind, you're like a bloody Quant"<br>
-[Ryan Bigg](https://twitter.com/ryanbigg)
-
 "The thing I've come to learn is that you are most assuredly _not_ a simple person"<br>
 [Dan Cheail](https://twitter.com/_dnch/)
+
+"I love your analytic mind, you're like a bloody Quant"<br>
+[Ryan Bigg](https://twitter.com/ryanbigg)
 
 "Like peeling back layers of an onion, you contain multitudes, and all of it wonderful"<br>
 [Dan Cheail](https://twitter.com/_dnch/)
@@ -469,3 +469,42 @@ I've found it's easier that way"<br>
 
 "Thank you for having wonderful ways to make life better"<br>
 [Kate Trewin](http://facebook.com/K8PL8)
+
+"Nick is awesome at drawing conclusions"<br>
+[Peter Slattery](https://www.facebook.com/peter.slattery.35)
+
+"My wife thinks you're a celebrity"<br>
+[Luke Freeman](https://twitter.com/lukefreeman)
+
+"In any other conversation this should be considered weird"<br>
+[David Quarel](https://www.facebook.com/dquarel)
+
+"Nick, you've always been cool"<br>
+[Joni Freeman](https://www.facebook.com/joni.emerald)
+
+"I question your utility function, but thank you"<br>
+[David Quarel](https://www.facebook.com/dquarel)
+
+"You're changing the dynamic... In a good way"<br>
+[Bradley Tjandra](https://www.facebook.com/btjandra)
+
+"I love your questions"<br>
+[Catherine Low](https://www.facebook.com/cafelow)
+
+"You'd make a great life coach"<br>
+[Ryan Bigg](https://twitter.com/ryanbigg)
+
+"You're my hero Nick"<br>
+[Lauren Hennessy](https://twitter.com/Zajakot)
+
+"Your long jacket makes you look slightly Doctor Who... It works for you"<br>
+[Kevin Yank](https://twitter.com/sentience)
+
+"You are the most moral person I know"<br>
+[Rohan Vasudevan](https://www.facebook.com/rohan.vasudevan.9)
+
+"Nick is being Nick, he's on brand"<br>
+[Chris Watkins](http://www.chriswaterguy.com/)
+
+"The main thing I've seen you do is throw out witty one liners"<br>
+[Katherine Savoie](https://www.linkedin.com/in/katherine-savoie-55911946/)
