@@ -508,3 +508,6 @@ I've found it's easier that way"<br>
 
 "The main thing I've seen you do is throw out witty one liners"<br>
 [Katherine Savoie](https://www.linkedin.com/in/katherine-savoie-55911946/)
+
+"For you it would definitely fall within the wheelhouse of baseline weirdness"
+[Richard Neilsen](https://www.facebook.com/rneilsen)
