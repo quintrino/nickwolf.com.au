@@ -509,5 +509,14 @@ I've found it's easier that way"<br>
 "The main thing I've seen you do is throw out witty one liners"<br>
 [Katherine Savoie](https://www.linkedin.com/in/katherine-savoie-55911946/)
 
-"For you it would definitely fall within the wheelhouse of baseline weirdness"
+"For you it would definitely fall within the wheelhouse of baseline weirdness"<br>
 [Richard Neilsen](https://www.facebook.com/rneilsen)
+
+"You're one of the best humans I know"<br>
+[Nerida Leigh](https://www.facebook.com/NeridaLeigh)
+
+"You're a very good influencer"<br>
+[James Sully](https://www.facebook.com/sullyj3)
+
+"You view your work through a very wide-angle lens"<br>
+[Dan Cheail](https://twitter.com/_dnch/)
