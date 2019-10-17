@@ -520,3 +520,6 @@ I've found it's easier that way"<br>
 
 "You view your work through a very wide-angle lens"<br>
 [Dan Cheail](https://twitter.com/_dnch/)
+
+"You’re the most structured organised person"<br>
+[Dana Sherson](https://www.facebook.com/robotdana)
