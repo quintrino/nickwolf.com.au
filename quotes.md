@@ -526,3 +526,18 @@ I've found it's easier that way"<br>
 
 "You're a very good actor"<br>
 [Louise Valmoria](https://twitter.com/luminescher)
+
+"You're very erudite and fascinating to chat with"<br>
+[Alistair Quinn](https://www.facebook.com/youaintseennothinglikethemightyquinn)
+
+"You would have made such a tremendous lawyer Nick"<br>
+[Rian Chubb](https://www.facebook.com/eggshellskull)
+
+"Where does your brain store all these things?"<br>
+[Nerida Leigh](https://www.facebook.com/NeridaLeigh)
+
+"I think pretty highly of you on several levels"<br>
+[Jake Antmann](https://www.facebook.com/jake.antmann)
+
+"The rest of us aren't superhuman like you"<br>
+[Nerida Leigh](https://www.facebook.com/NeridaLeigh)
