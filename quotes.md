@@ -541,3 +541,15 @@ I've found it's easier that way"<br>
 
 "The rest of us aren't superhuman like you"<br>
 [Nerida Leigh](https://www.facebook.com/NeridaLeigh)
+
+"I always love when I sit next to you, we always have the best chats"<br>
+[Cluny McCullagh](https://au.linkedin.com/in/cluny-mccullagh-2871427a)
+
+"You do very well as a yellow and black sign"<br>
+[Ryan Bigg](https://twitter.com/ryanbigg)
+
+"Literally everybody who meets you likes you"<br>
+[Nerida Leigh](https://www.facebook.com/NeridaLeigh)
+
+"You're like a less-evil Eye of Sauron"<br>
+[Ryan Bigg](https://twitter.com/ryanbigg)
