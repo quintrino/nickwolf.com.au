@@ -26,3 +26,5 @@ _Created a board game_
 _Presented on radio for 30 hours straight_
 
 _Organized and attended my own Funeral_
+
+_Presented at EAGx Sydney_
