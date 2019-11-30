@@ -19,4 +19,10 @@ _Watched all of breaking bad in a week_
 
 _Achieved a perfect score at Pub Trivia by myself_
 
+_Survived a simulated plane crash_
+
 _Created a board game_
+
+_Presented on radio for 30 hours straight_
+
+_Organized and attended my own Funeral_
