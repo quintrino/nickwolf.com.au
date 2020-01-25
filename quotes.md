@@ -556,3 +556,9 @@ I've found it's easier that way"<br>
 
 "No one can pretend to be you"<br>
 [Vanessa Nimmo](https://twitter.com/nessnimmo)
+
+"That sounds like a lot of work, and consequently, something you would do"<br>
+[Nerida Leigh](https://www.facebook.com/NeridaLeigh)
+
+"God you give good hugs"<br>
+[Jonathan Chan](https://www.linkedin.com/in/jonathanchanmarketer)
