@@ -3,11 +3,8 @@ layout: "page"
 hide: true
 ---
 
-Hi,
-
-looks like you've found something that belongs to me!
-
-I'll be happy to provide you with a reward for its return.
+Hi, looks like you've found something that belongs to me. I'll be happy to
+provide you with a reward for its return.
 
 <form
   action="https://formspree.io/xyyekgll"
