@@ -7,13 +7,28 @@ order: 3
 permalink: contact
 ---
 
-I've for the past several years placed a moratorium on Instant Messaging.
+I'm always grateful to those who provide me [Anonymous Feedback](/feedback)
 
-The best ways to reach me are via Email or by Calling me.
+You can also contact me below
 
-You can also provide me feedback below
+<form
+  action="https://formspree.io/xgeajyyp"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="text" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
 
-[Anonymous Feedback](/feedback)
+  <!-- your other form fields go here -->
+
+<button type="submit">Send</button>
+
+</form>
 
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
