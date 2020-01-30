@@ -562,3 +562,21 @@ I've found it's easier that way"<br>
 
 "God you give good hugs"<br>
 [Jonathan Chan](https://www.linkedin.com/in/jonathanchanmarketer)
+
+"This is the nerdest thing I've ever heard in my entire life"<br>
+[Kara Rebecca](https://www.facebook.com/kara.pogos)
+
+"You are notorious and proactive in your solicitation of feedback"<br>
+[Dan Cheail](https://twitter.com/_dnch/)
+
+"But that's in the realm of what normal people do"<br>
+[Kara Rebecca](https://www.facebook.com/kara.pogos)
+
+"I'm used to you being so impeccably dressed"<br>
+[Richard Neilsen](https://www.facebook.com/rneilsen)
+
+"They should make a movie out of this"<br>
+[Kara Rebecca](https://www.facebook.com/kara.pogos)
+
+"Most Nick statement ever"<br>
+[Nerida Leigh](https://www.facebook.com/NeridaLeigh)
