@@ -580,3 +580,7 @@ I've found it's easier that way"<br>
 
 "Most Nick statement ever"<br>
 [Nerida Leigh](https://www.facebook.com/NeridaLeigh)
+
+"I feel my introduction did not do justice to the resplendent varietal
+brilliance that is Nick Wolf"<br>
+[Jalen Lyle-Holmes](https://www.facebook.com/jalen.lyleholmes)
