@@ -578,6 +578,10 @@ I've found it's easier that way"<br>
 "They should make a movie out of this"<br>
 [Kara Rebecca](https://www.facebook.com/kara.pogos)
 
+"A Polymath, who, if you mention any given topic will probably either have
+an interest in it or have done some project related to it"<br>
+[Jalen Lyle-Holmes](https://www.facebook.com/jalen.lyleholmes)
+
 "Most Nick statement ever"<br>
 [Nerida Leigh](https://www.facebook.com/NeridaLeigh)
 
