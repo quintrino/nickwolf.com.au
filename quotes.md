@@ -588,3 +588,6 @@ an interest in it or have done some project related to it"<br>
 "I feel my introduction did not do justice to the resplendent varietal
 brilliance that is Nick Wolf"<br>
 [Jalen Lyle-Holmes](https://www.facebook.com/jalen.lyleholmes)
+
+"Everyone knows your a Polymath"<br>
+[Nerida Leigh](https://www.facebook.com/NeridaLeigh)
