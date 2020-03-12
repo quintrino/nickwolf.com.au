@@ -591,3 +591,33 @@ brilliance that is Nick Wolf"<br>
 
 "Everyone knows your a Polymath"<br>
 [Nerida Leigh](https://www.facebook.com/NeridaLeigh)
+
+"You are the guttiest person I know in regards to feedback"<br>
+[Grey McGowan](https://www.facebook.com/earlgreybot)
+
+"Most people, unlike you have a finite monkey sphere"<br>
+[Richard Neilsen](https://www.facebook.com/rneilsen)
+
+"You're a good node for six degrees of Melbourne"<br>
+[Toby Nieboer](https://twitter.com/tcn33/)
+
+"I think you're more French that you think"<br>
+[Jody Vandenschrick](https://au.linkedin.com/in/jodyvandenschrick)
+
+"I don't know whether to be impressed or terrified"<br>
+[Drew Noll](https://www.facebook.com/nollykin)
+
+"You've revolutionized my life, multiple times actually"<br>
+[Dana Sherson](https://www.facebook.com/robotdana)
+
+"If anyone I know can actualize a plan effectively, it's you"<br>
+[Nerida Leigh](https://www.facebook.com/NeridaLeigh)
+
+"It's such a nick thing to do"<br>
+[Ellis Clayton](https://ellis.codes/)
+
+"Your superpower is persistance"<br>
+[Louise Valmoria](https://twitter.com/luminescher)
+
+"I aspire to be more like you"<br>
+[Jordan Gabriels](https://www.linkedin.com/in/jordan-gabriels/)
