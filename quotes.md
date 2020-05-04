@@ -622,5 +622,11 @@ brilliance that is Nick Wolf"<br>
 "I aspire to be more like you"<br>
 [Jordan Gabriels](https://www.linkedin.com/in/jordan-gabriels/)
 
+"That is the best fucking metaphor I’ve ever heard"<br>
+[Sam Jones](https://www.smutbuttons.com/)
+
 "Person Good"<br>
 [Uri Bram](https://www.facebook.com/uri.bram) ([Person Do Thing Creator](http://www.persondothing.com/))
+
+"You are really brilliant at the whole ‘meta-work’ thing"<br>
+[Sam Jones](https://www.smutbuttons.com/)
