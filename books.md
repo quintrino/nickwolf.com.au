@@ -17,3 +17,4 @@ Here are the books I most often recommend to others.
 [Sapiens](https://www.amazon.com.au/Sapiens-Humankind-Yuval-Noah-Harari/dp/0062316095) by Yuval Noah Harari<br>
 [The Quantum Thief](https://www.amazon.com.au/Quantum-Thief-Jean-Flambeur-ebook/dp/B0043M66Y0) by Hannu Rajaniemi<br>
 [Thinking in Bets](https://www.amazon.com.au/Thinking-Bets-Annie-Duke/dp/0735216355) by Annie Duke<br>
+[Name of the Wind](https://www.amazon.com.au/Name-Wind-Patrick-Rothfuss/dp/0756404746) by Patrick Rothfuss<br>
