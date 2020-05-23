@@ -630,3 +630,27 @@ brilliance that is Nick Wolf"<br>
 
 "You are really brilliant at the whole ‘meta-work’ thing"<br>
 [Sam Jones](https://www.smutbuttons.com/)
+
+"I always love talking to you, it's always something interesting and cool going on"<br>
+[Jonathan Chan](https://www.linkedin.com/in/jonathanchanmarketer)
+
+"You are a man of many parts"<br>
+[Erin Belot](https://twitter.com/ErinBelot)
+
+"whenever we're out you are always very engaged in the social event"<br>
+[Richard Neilsen](https://www.facebook.com/rneilsen)
+
+"You can be my Minister of Feedback"<br>
+[Erin Belot](https://twitter.com/ErinBelot)
+
+"If anyone could do it well it would be you"<br>
+[Kate Trewin](http://facebook.com/K8PL8)
+
+"You embrace systems with gusto "<br>
+[Dan Cheail](https://twitter.com/_dnch/)
+
+"You are consistently the most bold"<br>
+[Louise Valmoria](https://twitter.com/luminescher)
+
+"Nick really outdid himself"<br>
+[Pat Allan](https://twitter.com/pat)
