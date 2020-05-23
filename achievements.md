@@ -30,3 +30,5 @@ _Organized and attended my own Funeral_
 _Presented at EAGx Sydney_
 
 _Was an extra in a film festival film_
+
+_Silently meditated in the Malaysian mountains for 10 days_
