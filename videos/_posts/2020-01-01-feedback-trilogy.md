@@ -6,7 +6,7 @@ layout: post
 icon: fa-user
 title: Feedback Trilogy
 hidden: true
-permalink: videos/feedback_trilogy
+permalink: videos/feedback-trilogy
 categories: ["Videos"]
 ---
 
