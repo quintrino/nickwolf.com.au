@@ -654,3 +654,42 @@ brilliance that is Nick Wolf"<br>
 
 "Nick really outdid himself"<br>
 [Pat Allan](https://twitter.com/pat)
+
+"You're the kind of person that will logic the SHIT out of a situation"<br>
+[Louise Valmoria](https://twitter.com/luminescher)
+
+"When you do epic, you certainly do epic"<br>
+[Jonathan Chan](https://www.linkedin.com/in/jonathanchanmarketer)
+
+"you are the axle on the Wheel of Melbourne"<br>
+[Nerida Leigh](https://www.facebook.com/NeridaLeigh)
+
+"You bring authenticity and curiosity to everything you do"<br>
+[David Rider](https://www.linkedin.com/in/davidsloanerider)
+
+"You seem like the type of person that would have more than a passing knowledge of Latin"<br>
+[Dan Cheail](https://twitter.com/_dnch/)
+
+"You are a true engineer, with a spirit for learning and discovery."<br>
+[Todd Moore](https://twitter.com/mooretoddy)
+
+"My hat is off to you sir"
+[Dan Cheail](https://twitter.com/_dnch/)
+
+"I miss our serendipitous convos in the office."<br>
+[Julio Feijó](https://www.linkedin.com/in/julio-cesar-dias-feij%C3%B3-junior-61ba0227/)
+
+"Having you around has made a real positive impact on my life"<br>
+[Nick Threapleton](https://threapleton.com/)
+
+"Thank you for always pushing such an unbreakable growth mindset"<br>
+[Jason O'Neil](https://twitter.com/jasonaoneil)
+
+"you know a lot about esoteric topics"<br>
+[Dan Cheail](https://twitter.com/_dnch/)
+
+"I will think of you every time I sharpen a tool"<br>
+[Tim Riley](https://twitter.com/timriley)
+
+"I have genuinely loved and learnt from every single conversation we have ever had"<br>
+[Cluny McCullagh](https://au.linkedin.com/in/cluny-mccullagh-2871427a)
