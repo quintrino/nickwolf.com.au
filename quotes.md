@@ -57,8 +57,7 @@ professional developer"<br>
 "Are you a comedian? You could be!"<br>
 [Ashley Bloom](https://www.facebook.com/ash13ybl/)
 
-"I would expect you to underestimate the value you provide, even as a beginner."
-<br>
+"I would expect you to underestimate the value you provide, even as a beginner."<br>
 [Cameron Taylor](http://facebook.com/wedrifid)
 
 "You would make the coolest vaccine campaigner!"<br>
@@ -693,3 +692,27 @@ brilliance that is Nick Wolf"<br>
 
 "I have genuinely loved and learnt from every single conversation we have ever had"<br>
 [Cluny McCullagh](https://au.linkedin.com/in/cluny-mccullagh-2871427a)
+
+"A Nick-ism for me is thinking about complements"<br>
+[Rian Chubb](https://www.facebook.com/eggshellskull)
+
+"you're really good at sci fi conceptual stuff"<br>
+[Rhys Tate](https://www.facebook.com/rhys.tate)
+
+"Nick likes to do things that are a cool thing to have done"<br>
+[Jalen Lyle-Holmes](https://www.facebook.com/jalen.lyleholmes)
+
+"Your commitment over the last two weeks or so has been impressive"<br>
+[Rhys Tate](https://www.facebook.com/rhys.tate)
+
+"I'm surprised you haven't already written a novel "<br>
+[Jalen Lyle-Holmes](https://www.facebook.com/jalen.lyleholmes)
+
+"I've always learned to never underestimate Nick"<br>
+[Rian Chubb](https://www.facebook.com/eggshellskull)
+
+"if I knew anyone who could go viral though sheer bloody mindedness it would be you"<br>
+[Nerida Leigh](https://www.facebook.com/NeridaLeigh)
+
+"you're always introducing me to the best stuff"<br>
+[Jonathan Chan](https://www.linkedin.com/in/jonathanchanmarketer)
