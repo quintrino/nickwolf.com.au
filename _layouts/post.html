@@ -12,7 +12,22 @@ layout: default
 				<h2>{{- page.title -}}</h2>
 				<p>{% if page.author %}{{ page.author }}, {% endif %}{{- page.date | date_to_long_string -}}</p>
 			</header>
-	    {{- content -}}
-	  </div>
+			{{- content -}}
+			<hr class="break">
+			<p>If you enjoyed this post, consider subscribing!</p>
+			<form
+			action="https://buttondown.email/api/emails/embed-subscribe/NickWolf"
+  		method="post"
+  		target="popupwindow"
+  		onsubmit="window.open('https://buttondown.email/NickWolf', 'popupwindow')"
+		>
+		<label for="bd-email">Enter your email</label>
+		<input type="email" name="email" id="bd-email" placeholder="email@example.com"/>
+		<input type="hidden" value="1" name="embed" />
+
+		<button type="submit">Subscribe</button>
+
+		</form>
+		</div>
 	</article>
 </div>
