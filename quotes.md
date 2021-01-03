@@ -717,5 +717,11 @@ brilliance that is Nick Wolf"<br>
 "you're always introducing me to the best stuff"<br>
 [Jonathan Chan](https://www.linkedin.com/in/jonathanchanmarketer)
 
+"I think everyone has some degree of learned helpnessness... except for you"<br>
+[Lisa Maree](https://www.facebook.com/lisa.ritchie.961)
+
 "I appreciate your open/accepting energy"<br>
 [Steph Hall](https://www.facebook.com/steppi)
+
+"Oh My God, you're the fucking best Nick"<br>
+[Lisa Maree](https://www.facebook.com/lisa.ritchie.961)
