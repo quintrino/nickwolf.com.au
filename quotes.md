@@ -725,3 +725,15 @@ brilliance that is Nick Wolf"<br>
 
 "Oh My God, you're the fucking best Nick"<br>
 [Lisa Maree](https://www.facebook.com/lisa.ritchie.961)
+
+"I'm sure you handled that as a Nick would, which is to say competently"<br>
+[Max Craigie](https://twitter.com/MaxCraigie)
+
+"Except for Nick, of course."<br>
+[Ellis Clayton](https://ellis.codes/)
+
+"I'm interested in smart people feedback"<br>
+[Max Craigie](https://twitter.com/MaxCraigie)
+
+"I don't think anyone can hate you"<br>
+[Jonathan Chan](https://www.linkedin.com/in/jonathanchanmarketer)
