@@ -48,7 +48,7 @@ professional developer"<br>
 "You're a surprisingly good dancer, I was impressed!"<br>
 [Cassie Walker](https://www.instagram.com/cassie_walker/)
 
-"You are so close to be attractive just on your physical appearance alone"<br>
+"You are so close to being attractive just on your physical appearance alone"<br>
 [Rian Chubb](https://www.facebook.com/eggshellskull)
 
 "You tend to know your shit!"<br>
