@@ -1,5 +1,5 @@
 ---
-icon: fa-balance-scale
+icon: fa-podcast
 permalink: blog/synning-in-style
 categories: Blog
 ---

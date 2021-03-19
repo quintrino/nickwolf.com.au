@@ -1,5 +1,5 @@
 ---
-icon: fa-balance-scale
+icon: fa-trophy
 permalink: blog/trivial-for-some
 categories: Blog
 ---

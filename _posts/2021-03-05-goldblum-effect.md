@@ -1,5 +1,5 @@
 ---
-icon: fa-balance-scale
+icon: fa-flask
 permalink: blog/goldblum-effect
 categories: Blog
 ---

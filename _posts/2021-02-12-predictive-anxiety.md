@@ -1,5 +1,5 @@
 ---
-icon: fa-balance-scale
+icon: fa-umbrella
 permalink: blog/predictive-anxiety
 categories: Blog
 ---
