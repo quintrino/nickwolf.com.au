@@ -737,3 +737,18 @@ brilliance that is Nick Wolf"<br>
 
 "I don't think anyone can hate you"<br>
 [Jonathan Chan](https://www.linkedin.com/in/jonathanchanmarketer)
+
+"I think you're really good Nick, and you have a bright future ahead of you."<br>
+[David Carlin](https://davidcarlin.com.au/)
+
+"Not just perfect. Perfect."<br>
+[Renaud Lepage](https://twitter.com/cybik)
+
+"That idea is so deeply fundamental to the core of who I am as a a person"<br>
+[Rhys Tate](https://www.facebook.com/rhys.tate)
+
+"Nick Wolf. Kind, ethical, empathetic, intelligent, deep thinker, a great listener, facilitator and motivator of others."<br>
+[David Carlin](https://davidcarlin.com.au/)
+
+"I always enjoy our catch ups, very stimulating"<br>
+[Rhys Tate](https://www.facebook.com/rhys.tate)
