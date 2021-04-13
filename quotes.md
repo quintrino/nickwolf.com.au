@@ -752,3 +752,12 @@ brilliance that is Nick Wolf"<br>
 
 "I always enjoy our catch ups, very stimulating"<br>
 [Rhys Tate](https://www.facebook.com/rhys.tate)
+
+"Nick is a good person to meet in person!"<br>
+[Paul Fenwick](https://twitter.com/pjf)
+
+"You live such an interesting life"<br>
+[Rhys Tate](https://www.facebook.com/rhys.tate)
+
+"Man this was an excellent read"<br>
+[Mathew Button](https://github.com/mathewdbutton)
