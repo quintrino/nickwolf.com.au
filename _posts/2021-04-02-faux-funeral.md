@@ -1,5 +1,5 @@
 ---
-icon: fa-coffin
+icon: fa-skull
 permalink: blog/faux-Funeral
 categories: Blog
 ---
