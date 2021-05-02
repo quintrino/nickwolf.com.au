@@ -3,7 +3,7 @@ layout: "page"
 hide: true
 ---
 
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/nickwolf" style="min-width:320px;height:580px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
-<!-- Calendly inline widget end -->
+<!-- ScheduleOnce embed START -->
+<div id="SOIDIV_NickWolf" data-so-page="NickWolf" data-height="550" data-style="border: 1px solid #d8d8d8; min-width: 290px; max-width: 900px;" data-psz="00"></div>
+<script type="text/javascript" src="https://cdn.oncehub.com/mergedjs/so.js"></script>
+<!-- ScheduleOnce embed END -->
