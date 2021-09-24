@@ -34,3 +34,5 @@ _Was an extra in a film festival film_
 _Silently meditated in the Malaysian mountains for 10 days_
 
 _Successfully solo won a 6 day 24 person game of Werewolf_
+
+_Did 30 days of Bikram Yoga_
