@@ -761,3 +761,24 @@ brilliance that is Nick Wolf"<br>
 
 "Man this was an excellent read"<br>
 [Mathew Button](https://github.com/mathewdbutton)
+
+"I think you're one of my most secure friends"<br>
+[Erin Belot](https://twitter.com/ErinBelot)
+
+"This is classic Nick"<br>
+[Richard Neilsen](https://www.facebook.com/rneilsen)
+
+"Be normal, your version of normal"<br>
+[Nerida Leigh](https://www.facebook.com/NeridaLeigh)
+
+"I would have bet money you were a Dvorak Man"<br>
+[Richard Neilsen](https://www.facebook.com/rneilsen)
+
+"Non conventional is what you do"<br>
+[Louise Valmoria](https://twitter.com/luminescher)
+
+"You are our hero"<br>
+[Daniel Reeves](https://twitter.com/dreev)
+
+"This is a challenge that 1) Nick would want to do and 2) this is a challenge Nick *could* do"<br>
+[Louise Valmoria](https://twitter.com/luminescher)
