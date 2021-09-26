@@ -11,7 +11,7 @@ Feel free to use any of the links below, or tell me why you think a different se
 
 |Service|Link/Code|Reason|
 |-| --- | ----- |
-|Up Bank|[Referral Link](https://hook.me.up/nick)|Up Bank is owned by Bendigo Bank which is diversed from Fossil fuels, and also has the most advanced features of any bank I've seen, pay splitting, custom payids, API access, to the minute scheduling|
+|Up Bank|[Referral Link](https://hook.me.up/nick)|Up Bank is owned by Bendigo Bank which is divested from fossil fuels, and also has the most advanced features of any bank I've seen, pay splitting, custom PayIDs, API access, to the minute scheduling|
 |Doordash|[Referral Link](https://drd.sh/BIiqxXJYh2uXTP0N)|Doordash seems to be the best delivery service for commissions for the restaurant|
 |[Belong](https://www.belong.com.au)| IAFY422F7 | Carbon Neutral, with unlimited data banking, Telstra Network, Cheap plans (I'm on their legacy $10 plan, but they also offer a $15 plan)|
 |Raiz|[Referral Link](https://app.raizinvest.com.au/invite/RZ2Z84)|I like them as a micro-investing platform for putting your excess funds of the month into the market, I think they used to hold a more unique position, but First Step and Spaceship now fulfill similar roles|
