@@ -29,9 +29,3 @@ You can also contact me below
 <button type="submit">Send</button>
 
 </form>
-
-<!-- Calendly badge widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-<script type="text/javascript">Calendly.initBadgeWidget({url: 'https://calendly.com/nickwolf/lunch', text: 'Schedule a lunch with me', color: '#E27689', branding: false});</script>
-<!-- Calendly badge widget end -->
