@@ -265,7 +265,7 @@ DEPENDENCIES
   github-pages
   jekyll (~> 3.3)
   jekyll-theme-prologue!
-  webrick (~> 1.7)
+  webrick
 
 BUNDLED WITH
-   2.3.22
+   2.3.24
