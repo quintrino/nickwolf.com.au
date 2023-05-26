@@ -782,3 +782,204 @@ brilliance that is Nick Wolf"<br>
 
 "This is a challenge that 1) Nick would want to do and 2) this is a challenge Nick *could* do"<br>
 [Louise Valmoria](https://twitter.com/luminescher)
+
+"this is such a Nick Wolf thing to do"<br>
+[Ryan Bigg](https://twitter.com/ryanbigg)
+
+"Unsurprisingly you have cool and interesting friends to chat with me"<br>
+[Max Craigie](https://twitter.com/MaxCraigie)
+
+"if anybody in the world was going to be the only person in the world not to do something it would be you"<br>
+[Nerida Leigh](https://www.facebook.com/NeridaLeigh)
+
+"Your Vibrant individuality is the embodiment of "you do you" and you do you well."<br>
+[Beau Oakley](https://www.facebook.com/janglz)
+
+"if anyone can it's you"<br>
+[Nerida Leigh](https://www.facebook.com/NeridaLeigh)
+
+"you're such a good listener"<br>
+[Erin Belot](https://twitter.com/ErinBelot)
+
+"You're a source of constant curiosity"<br>
+[Beau Oakley](https://www.facebook.com/janglz)
+
+"You're too Good Nick you're too good"<br>
+[Richard Neilsen](https://www.facebook.com/rneilsen)
+
+"When you get involved in something you *Get involved*"<br>
+[Beau Oakley](https://www.facebook.com/janglz)
+
+"You're too sweet and pure for this world Nick."<br>
+[Richard Neilsen](https://www.facebook.com/rneilsen)
+
+"Nick is the person who makes you realise that everyone else in your life is not as good"<br>
+[Elliot Teperman](https://www.facebook.com/elliot.teperman)
+
+"Fuck you live an interesting life..."<br>
+[Richard Neilsen](https://www.facebook.com/rneilsen)
+
+"Your special interest is social lore"<br>
+[Lisa Maree](https://www.facebook.com/lisa.ritchie.961)
+
+"They really ought to clone you"<br>
+[Kate Hunt](https://www.facebook.com/profile.php?id=100081755058151)
+
+"You're so high value Nick"<br>
+[Freya Solnordal](https://www.facebook.com/profile.php?id=100010380788992)
+
+"You're a svelte glass of water"<br>
+[Richard Neilsen](https://www.facebook.com/rneilsen)
+
+"When I first met you, you were the most interesting guy I'd ever spoken to"<br>
+[Joseph Bloom](https://www.facebook.com/joseph.bloom1)
+
+"You strike me as someone who would own a cape"<br>
+[Laila Hugrass](https://www.facebook.com/laila.hugrass)
+
+"That is the most you thing I've ever heard"<br>
+[Dan Olyphant](https://www.facebook.com/danielle.olyphant)
+
+"Being around Nick has made me a better conversationalist"<br>
+[Freya Solnordal](https://www.facebook.com/profile.php?id=100010380788992)
+
+"I know no-one like you"<br>
+[Karina Louise](https://www.facebook.com/nakarielle)
+
+"You are your own amazingly unique entity"<br>
+[Beau Oakley](https://www.facebook.com/janglz)
+
+"You are an incredible human being and I love you"<br>
+[Dana Sherson](https://www.facebook.com/robotdana)
+
+"You're very fucking Charismatic"<br>
+[Ben Hogan](https://www.facebook.com/bwhogan)
+
+"You're an indicator species, if you're here then it means it's a healthy habitat"<br>
+[Thomas Pagano](https://www.facebook.com/thomas.pagano1)
+
+"You're like a fun experience dealer"<br>
+[Cadence Ford](https://www.facebook.com/cadence.ford.165)
+
+"Talking to you is an adventure"<br>
+[Kate Hunt](https://www.facebook.com/profile.php?id=100081755058151)
+
+"Only Nick can make this statement"<br>
+[Kirsten Comandich](https://www.facebook.com/kcomandich)
+
+"People's utility is maximized when you're around"<br>
+[Max Craigie](https://twitter.com/MaxCraigie)
+
+"Okay, you are the real Nick"<br>
+[Aaron Yap](https://www.facebook.com/drunicorner)
+
+"I can see how that's not a problem for you"<br>
+[Kirsten Comandich](https://www.facebook.com/kcomandich)
+
+"He's like a chilli spice shaker, he just sprinkles spiciness into the conversation"<br>
+[Richard Neilsen](https://www.facebook.com/rneilsen)
+
+"Everyone knows Nick, even if they don't know that they know Nick"<br>
+[Richard Neilsen](https://www.facebook.com/rneilsen)
+
+"I love your mind"<br>
+[Louise Valmoria](https://twitter.com/luminescher)
+
+"You are a very particular type of wild"<br>
+[Christopher Bracegirdle](https://www.facebook.com/profile.php?id=100011249853764)
+
+"Can you just follow me around and steelman everyone I talk to?"<br>
+[Richard Neilsen](https://www.facebook.com/rneilsen)
+
+"I hate you a little bit, because you're very clever"<br>
+[Christopher Bracegirdle](https://www.facebook.com/profile.php?id=100011249853764)
+
+"Oh you're THE Nick"<br>
+[Adam Halley-Prinable](https://www.facebook.com/magicaxis)
+
+"This dude isn't entirely real"<br>
+[Christopher Bracegirdle](https://www.facebook.com/profile.php?id=100011249853764)
+
+"If there is anyone who can navigate situations like that, it's you"<br>
+[Max Craigie](https://twitter.com/MaxCraigie)
+
+"That's pretty Nick"<br>
+[Kirsten Comandich](https://www.facebook.com/kcomandich)
+
+"Nick is a very committed, persistant and dogged puzzle solver,
+Some people will look at it, think, "I don't know what to do"
+and go and have lunch, no, Nick will fucking get it done"<br>
+[Jalen Lyle-Holmes](https://www.facebook.com/jalen.lyleholmes)
+
+"You yourself, are a tough act to beat"<br>
+[Louise Valmoria](https://twitter.com/luminescher)
+
+"You are quite mutable"<br>
+[Kate Hunt](https://www.facebook.com/profile.php?id=100081755058151)
+
+"Only you would take this suggestion seriously and roll with it"<br>
+[David Quarel](https://www.facebook.com/dquarel)
+
+"That does sound like a Nick thing to do"<br>
+[Riley Peebles](https://www.facebook.com/profile.php?id=100010898767617)
+
+"You yourself, are a tough act to beat"<br>
+[Louise Valmoria](https://twitter.com/luminescher)
+
+"As I was setting this up, I did think, what if someone does X,
+but then I thought, no one would ever do X, but then Nick did X"<br>
+[Jalen Lyle-Holmes](https://www.facebook.com/jalen.lyleholmes)
+
+"you are not like other people I know"<br>
+[Geraldine Morgendorffer](https://www.facebook.com/geraldine.morgendorffer)
+
+"You have been otherworldly-eque in your ability to respond to feedback"<br>
+[Kate Hunt](https://www.facebook.com/profile.php?id=100081755058151)
+
+"There are many things about you that are non standard"<br>
+[Louise Valmoria](https://twitter.com/luminescher)
+
+"That sounds like a celebration worthy of a Nick"<br>
+[Laila Hugrass](https://www.facebook.com/laila.hugrass)
+
+"You're in a genre of your own"<br>
+[Kate Hunt](https://www.facebook.com/profile.php?id=100081755058151)
+
+"I also assume that everyone knows you anyway"<br>
+[Louise Valmoria](https://twitter.com/luminescher)
+
+"you're a very sofisticated robot if that's what you actually are"<br>
+[Kirsten Comandich](https://www.facebook.com/kcomandich)
+
+"The unreasonably social Nick Wolf"<br>
+[Jason Hinchcliffe](https://www.facebook.com/jhinchcliffe)
+
+"You handle your emotions in a very healthy and communicative way"<br>
+[Louise Valmoria](https://twitter.com/luminescher)
+
+"well since you know everybody anyway..."<br>
+[Kirsten Comandich](https://www.facebook.com/kcomandich)
+
+"Nick is a social nexus where everyone knows him, but is never quite sure from where"<br>
+[Dan Olyphant](https://www.facebook.com/danielle.olyphant)
+
+"I could see you at the head of a media company"<br>
+[Louise Valmoria](https://twitter.com/luminescher)
+
+"Nick is known by literally everyone"<br>
+[Caitlin Donaldson](https://www.facebook.com/caitlinpb)
+
+"I am so unsurprised by that quote"<br>
+[Joseph Miller](https://www.facebook.com/joffotron)
+
+"this is a very Nick Wolf request"<br>
+[Louise Valmoria](https://twitter.com/luminescher)
+
+"You're brain is interesting and we love it"<br>
+[Caitlin Donaldson](https://www.facebook.com/caitlinpb)
+
+"You've always been good at setting goals for yourself"<br>
+[Rhys Tate](https://www.facebook.com/rhys.tate)
+
+"I knew Nick would have something interesting to say on the topic, regardless of what it was"<br>
+[Dan Olyphant](https://www.facebook.com/danielle.olyphant)
