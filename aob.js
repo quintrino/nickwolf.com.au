@@ -91,7 +91,7 @@ class Image extends React.Component {
 
   preloadSlide() {
     fetch(
-      `https://source.unsplash.com/random/${window.innerWidth}x${window.outerHeight}`,
+      `https://picsum.photos/${window.innerWidth}/${window.outerHeight}`,
       {
         method: 'GET',
         redirect: 'follow',
