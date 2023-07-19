@@ -672,7 +672,7 @@ brilliance that is Nick Wolf"<br>
 "You are a true engineer, with a spirit for learning and discovery."<br>
 [Todd Moore](https://twitter.com/mooretoddy)
 
-"My hat is off to you sir"
+"My hat is off to you sir"<br>
 [Dan Cheail](https://twitter.com/_dnch/)
 
 "I miss our serendipitous convos in the office."<br>
@@ -983,3 +983,6 @@ but then I thought, no one would ever do X, but then Nick did X"<br>
 
 "I knew Nick would have something interesting to say on the topic, regardless of what it was"<br>
 [Dan Olyphant](https://www.facebook.com/danielle.olyphant)
+
+"You seem like the type of person to have 4 degrees"<br>
+[KT Danger](https://twitter.com/handmeagrater)
