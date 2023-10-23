@@ -986,3 +986,39 @@ but then I thought, no one would ever do X, but then Nick did X"<br>
 
 "You seem like the type of person to have 4 degrees"<br>
 [KT Danger](https://twitter.com/handmeagrater)
+
+"Nick is a conversational judo master"<br>
+[Richard Neilsen](https://www.facebook.com/rneilsen)
+
+"You know too much"<br>
+[Lilly Ellerton](https://www.facebook.com/lillyeellie)
+
+"You live your best life"<br>
+[David Quarel](https://www.facebook.com/dquarel)
+
+"You are atypical in a number of respects"<br>
+[Richard Neilsen](https://www.facebook.com/rneilsen)
+
+"You fascinate me"<br>
+[Lilly Ellerton](https://www.facebook.com/lillyeellie)
+
+"You're like the person who does the things that you hear that people do, but you would never do yourself"<br>
+[Lexi May](https://www.facebook.com/alexandra.walton.58)
+
+"Most of your friends are amazingly awesome"<br>
+[Richard Neilsen](https://www.facebook.com/rneilsen)
+
+"You are relentless"<br>
+[Lilly Ellerton](https://www.facebook.com/lillyeellie)
+
+"This is such a Nick answer"<br>
+[Richard Neilsen](https://www.facebook.com/rneilsen)
+
+"It's the kind of shit Nick Wolf would do"<br>
+[David Quarel](https://www.facebook.com/dquarel)
+
+"You strike me as a very interesting person"<br>
+[Will McDonald](https://www.facebook.com/will.mcdonald.121)
+
+"Nick is well connected and very special"<br>
+[Ben Kloester](https://www.facebook.com/benkloester)
