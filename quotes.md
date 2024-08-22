@@ -1022,3 +1022,6 @@ but then I thought, no one would ever do X, but then Nick did X"<br>
 
 "Nick is well connected and very special"<br>
 [Ben Kloester](https://www.facebook.com/benkloester)
+
+"I'd vote for you"<br>
+[Gerry Caulfield](https://www.facebook.com/gerrywastaken)
