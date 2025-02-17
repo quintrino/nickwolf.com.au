@@ -1025,3 +1025,6 @@ but then I thought, no one would ever do X, but then Nick did X"<br>
 
 "I'd vote for you"<br>
 [Gerry Caulfield](https://www.facebook.com/gerrywastaken)
+
+"One thing I appreciate about you Nick is the “I'm just going to do this because it is what I want to do” attitude"<br>
+[Geneva Goldenberg](https://www.facebook.com/profile.php?id=100074352814109)
