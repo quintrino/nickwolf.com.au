@@ -1028,3 +1028,6 @@ but then I thought, no one would ever do X, but then Nick did X"<br>
 
 "One thing I appreciate about you Nick is the “I'm just going to do this because it is what I want to do” attitude"<br>
 [Geneva Goldenberg](https://www.facebook.com/profile.php?id=100074352814109)
+
+" I can't stress enough how steadying of a presence you are."<br>
+[Natalie R-G](https://www.facebook.com/natalie.rathjengonzales)
