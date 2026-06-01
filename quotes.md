@@ -164,7 +164,7 @@ characteristics is your kindness and your emotional regulation."<br>
 [James Sully](https://www.facebook.com/sullyj3)
 
 <a id="50"></a>"This is Nick, that's what he does."<br>
-[Campbell Duff](https://www.facebook.com/campbell.duff)
+[Katie Duff](https://www.facebook.com/katieduff486)
 
 <a id="51"></a>"You are highly skilled at precision empathy"<br>
 [Kate Kenfield](https://twitter.com/katekenfield)
