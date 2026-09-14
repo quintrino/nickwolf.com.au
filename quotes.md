@@ -293,7 +293,7 @@ initiate conversations that I can then join"<br>
 [Richard Neilsen](https://www.facebook.com/rneilsen)
 
 <a id="91"></a>"You look very Dapper"<br>
-[Kerry Shepherd]()
+[Kerry Shepherd](https://www.facebook.com/kerryalina)
 
 <a id="92"></a>"You could run a workshop on the evolution of a joke"<br>
 [Anna Smith](https://www.facebook.com/anna.smith.5494360)
@@ -778,7 +778,7 @@ I've found it's easier that way"<br>
 <a id="250"></a>"You are our hero"<br>
 [Daniel Reeves](https://twitter.com/dreev)
 
-<a id="251"></a>"This is a challenge that 1) Nick would want to do and 2) this is a challenge Nick *could* do"<br>
+<a id="251"></a>"This is a challenge that 1) Nick would want to do and 2) this is a challenge Nick _could_ do"<br>
 [Louise Valmoria](https://twitter.com/luminescher)
 
 <a id="252"></a>"this is such a Nick Wolf thing to do"<br>
@@ -805,7 +805,7 @@ I've found it's easier that way"<br>
 <a id="259"></a>"You're too Good Nick you're too good"<br>
 [Richard Neilsen](https://www.facebook.com/rneilsen)
 
-<a id="260"></a>"When you get involved in something you *Get involved*"<br>
+<a id="260"></a>"When you get involved in something you _Get involved_"<br>
 [Beau Oakley](https://www.facebook.com/janglz)
 
 <a id="261"></a>"You're too sweet and pure for this world Nick."<br>
@@ -824,7 +824,7 @@ I've found it's easier that way"<br>
 [Kate Hunt](https://www.facebook.com/profile.php?id=100081755058151)
 
 <a id="266"></a>"You're so high value Nick"<br>
-[Freya Solnordal](https://www.facebook.com/profile.php?id=100010380788992)
+[Freya Solnordal](https://www.facebook.com/freya.solnordal)
 
 <a id="267"></a>"You're a svelte glass of water"<br>
 [Richard Neilsen](https://www.facebook.com/rneilsen)
@@ -839,7 +839,7 @@ I've found it's easier that way"<br>
 [Dan Olyphant](https://www.facebook.com/danielle.olyphant)
 
 <a id="271"></a>"Being around Nick has made me a better conversationalist"<br>
-[Freya Solnordal](https://www.facebook.com/profile.php?id=100010380788992)
+[Freya Solnordal](https://www.facebook.com/freya.solnordal)
 
 <a id="272"></a>"I know no-one like you"<br>
 [Karina Louise](https://www.facebook.com/nakarielle)
@@ -1029,3 +1029,192 @@ but then I thought, no one would ever do X, but then Nick did X"<br>
 
 <a id="333"></a>" I can't stress enough how steadying of a presence you are."<br>
 [Natalie R-G](https://www.facebook.com/natalie.rathjengonzales)
+
+<a id="334"></a>"I feel like my brain is getting tasty bits of candy when you come here"<br>
+[Serene Desiree](https://www.facebook.com/serene.desiree)
+
+<a id="335"></a>"I knew you would have a solution for that"<br>
+[Ren Vice](https://www.facebook.com/ren.vice.6)
+
+<a id="336"></a>"I feel like I'm talking to a science fiction book"<br>
+[Cata M Cruz](https://www.facebook.com/catalina.m.cruz)
+
+<a id="337"></a>"Your way of digging is very gentle and logical"<br>
+[Sascha Rouse](https://www.facebook.com/rouse.alex)
+
+<a id="338"></a>"I talk to you and then I remember you're Nick, you're not all men"<br>
+[Philippa Evans](https://www.facebook.com/philippa.evans11)
+
+<a id="339"></a>"Or they could use the Nick Wolf strategy..."<br>
+[Chris Leong](https://www.facebook.com/casebash)
+
+<a id="340"></a>"Don't threaten Nick with a good time"<br>
+[Eliot Redelman](https://www.facebook.com/redelman)
+
+<a id="341"></a>"It's the most Nick as Fuck story"<br>
+[Sel Ellett](https://www.facebook.com/sellellett)
+
+<a id="342"></a>"Good strategic thinking Nick Wolf"<br>
+[Chloe Frances](https://www.facebook.com/chloe.mischief)
+
+<a id="343"></a>"Nick Wolf, no one can top that, that's the pinnacle"<br>
+[Alitta Berson](https://www.facebook.com/alitta.berson)
+
+<a id="344"></a>"You're like a Gonzo Journalist"<br>
+[Lisa Maree](https://www.facebook.com/lisa.ritchie.961)
+
+<a id="345"></a>"So you're Claude IRL"<br>
+[Hannah Meagher](https://www.facebook.com/hannah.rose.meagher)
+
+<a id="346"></a>"Nick has infinite self curiosity"<br>
+[Philippa Evans](https://www.facebook.com/philippa.evans11)
+
+<a id="347"></a>"That is _Peak_ knowing your context"<br>
+[Chloe Frances](https://www.facebook.com/chloe.mischief)
+
+<a id="348"></a>"Nick Wolf, a unique and wonderful being"<br>
+[Christopher Martin-McCombe](https://www.facebook.com/cam13)
+
+<a id="349"></a>"If it is technically possible, you will make it possible"<br>
+[Louise Valmoria](https://twitter.com/luminescher)
+
+<a id="350"></a>"You really listen, you're a listener"<br>
+[Philippa Evans](https://www.facebook.com/philippa.evans11)
+
+<a id="351"></a>"You are so many standard deviations out"<br>
+[Freya Solnordal](https://www.facebook.com/freya.solnordal)
+
+<a id="352"></a>"That's a very wholesome and a very Nick answer"<br>
+[Geneva Goldenberg](https://www.facebook.com/profile.php?id=100074352814109)
+
+<a id="353"></a>"The fun thing about you is you know a lot of things"<br>
+[Philippa Evans](https://www.facebook.com/philippa.evans11)
+
+<a id="354"></a>"Nick is always going to these bespoke unusual events"<br>
+[Bettina Hill](https://www.facebook.com/bettina.hill.165910)
+
+<a id="355"></a>"I think I just want to follow you for a month"<br>
+[Raphaella Caplan](https://www.facebook.com/rapha.ella.352935)
+
+<a id="356"></a>"What do you expect from a Nick Wolf?"<br>
+[Eliot Redelman](https://www.facebook.com/redelman)
+
+<a id="357"></a>"Man actually has moves!"<br>
+[Matthew Delaney](https://www.facebook.com/matthew.delaney.73)
+
+<a id="358"></a>"As you would / That's so Nick"<br>
+[Sel Ellett](https://www.facebook.com/sellellett)
+
+<a id="359"></a>"This is why charts have outliers"<br>
+[Kirsten Comandich](https://www.facebook.com/kcomandich)
+
+<a id="360"></a>"Woah, that is prolific"<br>
+[Sam Nolan](https://www.facebook.com/sam.nolan.5030)
+
+<a id="361"></a>"You're not the most representative person"<br>
+[Chloe Frances](https://www.facebook.com/chloe.mischief)
+
+<a id="362"></a>"Unlike you, most people don't study themselves"<br>
+[Bettina Hill](https://www.facebook.com/bettina.hill.165910)
+
+<a id="363"></a>"You are a little bit magic"<br>
+[Mark Kadabra](https://www.facebook.com/mark.kelly.395)
+
+<a id="364"></a>"Nick Wolf Coded Behaviour"<br>
+[Grey McGowan](https://www.facebook.com/earlgreybot)
+
+<a id="365"></a>"You're the most proactively peculiar person I know"<br>
+[Fyodor Krasniy](https://www.facebook.com/dr.fyodor.krasniy)
+
+<a id="366"></a>"I think Nick would be the most likely to do that"<br>
+[Freya Solnordal](https://www.facebook.com/freya.solnordal)
+
+<a id="367"></a>"You're a fascinating specimen"<br>
+[Lauren Mullarvey](https://www.facebook.com/lauren.mullarvey)
+
+<a id="368"></a>"You can do such awesome things with a Nick"<br>
+[Philippa Evans](https://www.facebook.com/philippa.evans11)
+
+<a id="369"></a>"That is a very you thing to do"<br>
+[Freya Solnordal](https://www.facebook.com/freya.solnordal)
+
+<a id="370"></a>"I just want to be a part of Nick's social circles"<br>
+[Doug Greene](https://www.facebook.com/ThatOneGuy.Net)
+
+<a id="371"></a>"You're able to shape your role in the experience to benefit both you and the others in the experience"<br>
+[Freya Solnordal](https://www.facebook.com/freya.solnordal)
+
+<a id="372"></a>"I would find that more surprising for almost anybody else."<br>
+[Chris Watkins](http://www.chriswaterguy.com/)
+
+<a id="373"></a>"Oh, another main character"<br>
+[Philippa Evans](https://www.facebook.com/philippa.evans11)
+
+<a id="374"></a>"You are more generative than the exercise"<br>
+[Eliot Redelman](https://www.facebook.com/redelman)
+
+<a id="375"></a>"You go and do the thing, persistently, perhaps too persistently."<br>
+[Louise Valmoria](https://twitter.com/luminescher)
+
+<a id="376"></a>"It's Nick, do you even need to ask?"<br>
+[Serene Desiree](https://www.facebook.com/serene.desiree)
+
+<a id="377"></a>"You bouncing around and being Nick-ish"<br>
+[Hannah Meagher](https://www.facebook.com/hannah.rose.meagher)
+
+<a id="378"></a>"Nick is one of the most exploratory people I know"<br>
+[Chris Watkins](http://www.chriswaterguy.com/)
+
+<a id="379"></a>"You're very interesting, Nick."<br>
+[Dahlia Kerr](https://www.facebook.com/dayleekerr)
+
+<a id="380"></a>"You're a 10/10 addition to the chaos"<br>
+[Sarah Millman](https://www.facebook.com/nurseysarah)
+
+<a id="381"></a>"That is so you coded."<br>
+[Grey McGowan](https://www.facebook.com/earlgreybot)
+
+<a id="382"></a>"Nick's a very knowledgible person"<br>
+[Jacob Sephton](https://www.facebook.com/jacobsephton)
+
+<a id="383"></a>"If Nick didn't exist it would be necessary to invent him."<br>
+[Owen Crute](https://www.facebook.com/billy.b.keys)
+
+<a id="384"></a>"Like _quest_ man over here..."<br>
+[Eliot Redelman](https://www.facebook.com/redelman)
+
+<a id="385"></a>"You are inconceivable!"<br>
+[Mark Kadabra](https://www.facebook.com/mark.kelly.395)
+
+<a id="386"></a>"You're too powerful already"<br>
+[Bo Dhi](https://www.facebook.com/bodhic)
+
+<a id="387"></a>"Nick is living a good story to tell a good story"<br>
+[Bradley Tjandra](https://www.facebook.com/btjandra)
+
+<a id="388"></a>"Good person to know, like an Ace on the hole."<br>
+[Bread Tannahill](https://www.facebook.com/breadinabox)
+
+<a id="389"></a>"I just wanna read all your spreadsheets"<br>
+[Raphaella Caplan](https://www.facebook.com/rapha.ella.352935)
+
+<a id="390"></a>"I believe that about you"<br>
+[Sel Ellett](https://www.facebook.com/sellellett)
+
+<a id="391"></a>"This is such a Nickism."<br>
+[Dahlia Kerr](https://www.facebook.com/dayleekerr)
+
+<a id="392"></a>"That's a Nick Special! Giving an earnest and honest answer to a playful question"<br>
+[Bettina Hill](https://www.facebook.com/bettina.hill.165910)
+
+<a id="393"></a>"Where as provoking Nick is a bit like feeding the monster"<br>
+[Chris Watkins](http://www.chriswaterguy.com/)
+
+<a id="394"></a>"Nick is one of the most optimised people I know"<br>
+[Raphaella Caplan](https://www.facebook.com/rapha.ella.352935)
+
+<a id="395"></a>"I could just replace my therapist with you"<br>
+[Sascha Rouse](https://www.facebook.com/rouse.alex)
+
+<a id="396"></a>"A way that is satisfactory to the Nickness of you"<br>
+[Freya Solnordal](https://www.facebook.com/freya.solnordal)
