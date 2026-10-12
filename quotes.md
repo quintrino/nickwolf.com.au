@@ -1042,8 +1042,8 @@ but then I thought, no one would ever do X, but then Nick did X"<br>
 <a id="337"></a>"Your way of digging is very gentle and logical"<br>
 [Sascha Rouse](https://www.facebook.com/rouse.alex)
 
-<a id="338"></a>"I talk to you and then I remember you're Nick, you're not all men"<br>
-[Philippa Evans](https://www.facebook.com/philippa.evans11)
+<a id="338"></a>"A way that is satisfactory to the Nickness of you"<br>
+[Freya Solnordal](https://www.facebook.com/freya.solnordal)
 
 <a id="339"></a>"Or they could use the Nick Wolf strategy..."<br>
 [Chris Leong](https://www.facebook.com/casebash)
@@ -1215,6 +1215,3 @@ but then I thought, no one would ever do X, but then Nick did X"<br>
 
 <a id="395"></a>"I could just replace my therapist with you"<br>
 [Sascha Rouse](https://www.facebook.com/rouse.alex)
-
-<a id="396"></a>"A way that is satisfactory to the Nickness of you"<br>
-[Freya Solnordal](https://www.facebook.com/freya.solnordal)
