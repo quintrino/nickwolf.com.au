@@ -19,3 +19,5 @@ Feel free to use any of the links below, or tell me why you think a different se
 |[Spaceship](https://www.spaceship.com.au/)| S8JBLSM40Z | Very similar to Raiz, but seems to have a better fee structure, appears similar to a tech focused ETF |
 |Afterpay|[Referral Link](https://fbuy.io/ap-anz/nickwolf)|I only recommend using pay later services if you have good impulse purchase control|
 |Libro.fm|[Referral Link](https://libro.fm/referral?rf_code=lfm982140)|Audiobook provider which allows you to nominate a local bookshop to receive commission|
+|Proton Mail|[Referral Link](https://pr.tn/ref/Z7AMWFVF)|End to End Encrypted Email provider, protected by Swiss privacy laws|
+|Clearly|[Referral Link](https://clearly.mention-me.com/me/referee/registerko/194878120/785233931/em/23aa53d7275d6c40c9816e2f8d0e78ba9b2ff610/fe/cw?epr=1)|Online glasses and contacts store|
