@@ -63,4 +63,6 @@ collections: [sections]
 
 plugins:
   - jekyll-redirect-from
+  - jekyll-default-layout
   - jekyll-feed
+  - jekyll-remote-theme
